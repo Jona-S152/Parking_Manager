@@ -1,0 +1,28 @@
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\bin\Debug\Tarea2_JonathanSolis.exe.config
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\bin\Debug\Tarea2_JonathanSolis.exe
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\bin\Debug\Tarea2_JonathanSolis.pdb
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.Properties.Resources.resources
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.exe
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.pdb
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.MenuPrincipal.resources
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.Registros.resources
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.InicioSesion.resources
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.Tarifas.resources
+C:\Users\Hp\Desktop\Proyecto Volo Electrónico\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.CalcularCosto.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\bin\Debug\Tarea2_JonathanSolis.exe.config
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\bin\Debug\Tarea2_JonathanSolis.exe
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\bin\Debug\Tarea2_JonathanSolis.pdb
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.CalcularCosto.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.InicioSesion.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.MenuPrincipal.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.Properties.Resources.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.Registros.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.Tarifas.resources
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.exe
+C:\Users\Hp\Desktop\Tecsu\Semestre 3\2do trimestre\Desarrollo de Software III\1er parcial\Tarea2_JonathanSolis\Tarea2_JonathanSolis\obj\Debug\Tarea2_JonathanSolis.pdb
